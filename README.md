@@ -2,12 +2,16 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-## Tecnologias e Ferramentas
+## Tecnologias 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="40" height="40" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="40" height="40" />
 
+
+  
+## Ferramentas
+
+
+<h1>Contatos</h1>
 
 
 <!--
