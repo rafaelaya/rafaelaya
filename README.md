@@ -1,5 +1,15 @@
 ## Hi there 👋
+## Hi there 👋
+# Olá, me chamo Rafa! 
+## Bem vindo ao meu perfil GitHub 👋
 
+# 👋 Hello! Welcome to my Github profile.
+## My name is Rafaela and my nickname is "Rafa"!
+
+## Tecnologias e Ferramentas
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 <!--
 **rafaelaya/rafaelaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
