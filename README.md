@@ -1,7 +1,7 @@
 # Olá, me chamo Rafa! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-![rafaelaya GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelaya&show_icons=true&theme=2077)
+![rafaelaya GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelaya&show_icons=true&theme=nord)
 
 ## Tecnologias 
 
