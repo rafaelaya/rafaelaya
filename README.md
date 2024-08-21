@@ -5,6 +5,7 @@
 - 🌱 Estou estudando "Cypress: automatizando testes E2E".
 - 🤔 Estou a procura de novos desafios.
 
+<i class="devicon-github-original"></i>
 
 ![rafaelaya GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelaya&show_icons=true&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaya&layout=compact&theme=nord)
