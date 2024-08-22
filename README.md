@@ -16,6 +16,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"  />
 <img src="https://s2.svgbox.net/social.svg?ic=github&color=000" width="40" height="40">
 <img src="https://s2.svgbox.net/files.svg?ic=robotframework&color=000" width="40" height="40">
+<img src="https://s2.svgbox.net/files.svg?ic=java&color=000" width="40" height="40">
+<img src="https://s2.svgbox.net/files.svg?ic=js&color=000" width="40" height="40">
+<img src="https://s2.svgbox.net/files.svg?ic=html&color=000" width="40" height="40">
+<img src="https://s2.svgbox.net/files.svg?ic=css&color=000" width="40" height="40">
 
    
 ## Contatos
