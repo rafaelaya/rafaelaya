@@ -12,14 +12,18 @@
 
 ## Ferramentas & Tecnologias 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"  />
-<img src="https://s2.svgbox.net/social.svg?ic=github&color=000" width="40" height="40">
-<img src="https://s2.svgbox.net/files.svg?ic=robotframework&color=000" width="40" height="40">
-<img src="https://s2.svgbox.net/files.svg?ic=java&color=000" width="40" height="40">
-<img src="https://s2.svgbox.net/files.svg?ic=js&color=000" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
 <img src="https://s2.svgbox.net/files.svg?ic=html&color=000" width="40" height="40">
 <img src="https://s2.svgbox.net/files.svg?ic=css&color=000" width="40" height="40">
+<img src="https://s2.svgbox.net/files.svg?ic=java&color=000" width="40" height="40">
+<img src="https://s2.svgbox.net/files.svg?ic=js&color=000" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" />
+<img src="https://s2.svgbox.net/files.svg?ic=robotframework&color=000" width="40" height="40">
+<img src="https://s2.svgbox.net/social.svg?ic=github&color=000" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"  />
 <img src="https://github.com/user-attachments/assets/a12ce880-3e83-49ac-97cd-8eca4aa166f2" alt="image" width="40" height="40">
 
 
