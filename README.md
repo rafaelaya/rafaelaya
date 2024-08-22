@@ -20,6 +20,9 @@
 <img src="https://s2.svgbox.net/files.svg?ic=js&color=000" width="40" height="40">
 <img src="https://s2.svgbox.net/files.svg?ic=html&color=000" width="40" height="40">
 <img src="https://s2.svgbox.net/files.svg?ic=css&color=000" width="40" height="40">
+![image](https://github.com/user-attachments/assets/a559ae28-ccb8-4898-ac71-1231633c7037)
+
+
 
    
 ## Contatos
