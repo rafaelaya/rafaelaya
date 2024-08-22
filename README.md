@@ -20,7 +20,8 @@
 <img src="https://s2.svgbox.net/files.svg?ic=js&color=000" width="40" height="40">
 <img src="https://s2.svgbox.net/files.svg?ic=html&color=000" width="40" height="40">
 <img src="https://s2.svgbox.net/files.svg?ic=css&color=000" width="40" height="40">
-<img ![image](https://github.com/user-attachments/assets/2bc934ff-059c-4cb5-8df7-feb1882a42d8) width="40" height="40">
+<img src="https://github.com/user-attachments/assets/2bc934ff-059c-4cb5-8df7-feb1882a42d8" alt="image" width="40" height="40">
+
 
 
 
